@@ -2,5 +2,16 @@
   "name": "grafik",
   "theme_color": "#000000",
   "background_color": "#000000",
-  "short_name": "grafikk"
+  "short_name": "grafikk",
+  "icons": [
+    {
+      "src": "logo192.jpg",
+      "type": "image/jpg",
+      "sizes": "192x192"
+    },
+    {
+      "src": "logo512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }]
 }
